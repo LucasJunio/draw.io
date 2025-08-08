@@ -1,17 +1,31 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Página-1" id="waUbrjTIYsetLemBl0IZ">
-    <mxGraphModel dx="1425" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2951" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JJniAq4o4vlROOEEkJB6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="240" width="690" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="JrhWDAN4cCi7IcUcyurz-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;main.go&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#6A00FF,#7F00FF);fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="kbPy-yKDQCEok55gv3gf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="890" width="690" height="160" as="geometry" />
         </mxCell>
         <mxCell id="JJniAq4o4vlROOEEkJB6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="440" width="690" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;dashPattern=8 8;" edge="1" parent="1" source="JJniAq4o4vlROOEEkJB6-1" target="kbPy-yKDQCEok55gv3gf-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="420" />
+              <mxPoint x="303" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJniAq4o4vlROOEEkJB6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="240" width="690" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;dashPattern=8 8;" edge="1" parent="1" source="JrhWDAN4cCi7IcUcyurz-1" target="kbPy-yKDQCEok55gv3gf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrhWDAN4cCi7IcUcyurz-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;main.go&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#6A00FF,#7F00FF);fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JJniAq4o4vlROOEEkJB6-4" value="Health Check Controller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="490" width="145" height="60" as="geometry" />
@@ -19,20 +33,26 @@
         <mxCell id="kbPy-yKDQCEok55gv3gf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="670" width="690" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-2" target="kbPy-yKDQCEok55gv3gf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-2" target="kbPy-yKDQCEok55gv3gf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-2" value="WPS Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kbPy-yKDQCEok55gv3gf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="890" width="690" height="160" as="geometry" />
+        <mxCell id="kbPy-yKDQCEok55gv3gf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-4" target="kbPy-yKDQCEok55gv3gf-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-4" value="Parking Receipts Repo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="930" width="150" height="30" as="geometry" />
+          <mxGeometry x="320" y="915" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1090" width="690" height="160" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-6" value="WPS API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="86" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-7" value="Swagger Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="145" height="60" as="geometry" />
@@ -40,8 +60,35 @@
         <mxCell id="kbPy-yKDQCEok55gv3gf-8" value="WPS Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="490" width="145" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-9" target="kbPy-yKDQCEok55gv3gf-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="633" y="630" />
+              <mxPoint x="580" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-9" target="kbPy-yKDQCEok55gv3gf-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="633" y="630" />
+              <mxPoint x="375" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-9" value="Customer Plate Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="490" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-10" target="kbPy-yKDQCEok55gv3gf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-10" target="kbPy-yKDQCEok55gv3gf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="850" />
+              <mxPoint x="395" y="850" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-10" value="Customer Plate Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="720" width="150" height="60" as="geometry" />
@@ -49,29 +96,65 @@
         <mxCell id="kbPy-yKDQCEok55gv3gf-11" value="Parking Pass Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-12" value="Customer Plate Repo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="970" width="150" height="30" as="geometry" />
+          <mxGeometry x="480" y="915" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-13" target="kbPy-yKDQCEok55gv3gf-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-13" value="WPS Provider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="930" width="150" height="30" as="geometry" />
+          <mxGeometry x="71" y="910" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-14" target="kbPy-yKDQCEok55gv3gf-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-14" value="Perto Provider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="970" width="150" height="30" as="geometry" />
+          <mxGeometry x="170" y="965" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-15" value="MongoDB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="950" width="150" height="30" as="geometry" />
+          <mxGeometry x="405" y="995" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-16" value="Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="915" width="150" height="30" as="geometry" />
+          <mxGeometry x="650" y="915" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-17" value="Validators" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="955" width="150" height="30" as="geometry" />
+          <mxGeometry x="650" y="955" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-18" value="Exceptions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="995" width="150" height="30" as="geometry" />
+          <mxGeometry x="650" y="995" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbPy-yKDQCEok55gv3gf-19" value="Perto API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.577;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=1;dashPattern=8 8;" edge="1" parent="1" target="JJniAq4o4vlROOEEkJB6-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="390" y="420" />
+              <mxPoint x="154" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;dashPattern=8 8;" edge="1" parent="1" source="JrhWDAN4cCi7IcUcyurz-1" target="kbPy-yKDQCEok55gv3gf-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="420" />
+              <mxPoint x="633" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbPy-yKDQCEok55gv3gf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.612;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="kbPy-yKDQCEok55gv3gf-8" target="kbPy-yKDQCEok55gv3gf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="463" y="610" />
+              <mxPoint x="198" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
